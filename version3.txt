@@ -1,3 +1,3 @@
 change success.
 change failed.
-change success2(master).
+change success2.
